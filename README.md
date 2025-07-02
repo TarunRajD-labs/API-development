@@ -16,5 +16,3 @@ This project is a simple Full-Stack CRUD (Create, Read, Update, Delete) web appl
 
 ---
 
-## 📁 Project Structure
-
